@@ -3,3 +3,5 @@ this is second file
 2nd line---> i changed
 
 3rd line
+
+i am adding some functionality here
