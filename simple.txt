@@ -1,3 +1,3 @@
 hi hello
 
-Im learning Git
+Im learng Git
